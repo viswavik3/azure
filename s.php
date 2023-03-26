@@ -1,6 +1,7 @@
 <?php
 // Retrieve form data
-echo "Hello, world!";
+echo "File uploaded successfully";
+echo "Details saved successfully!";
 $product_id = $_POST['product_id'];
 $product_name = $_POST['product_name'];
 $price = $_POST['price'];
